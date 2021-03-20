@@ -1,5 +1,6 @@
-Hey all,
-I am a student of MFF UK (the Faculty of Mathematics and Physics, Charles University). I study the 3rd year of Bachelor degree on General Computer Science.
+Hey all 👋,
+
+I am a student of MFF UK 🇨🇿🎓🖥️(the Faculty of Mathematics and Physics, Charles University). I study the 3rd year of Bachelor degree on General Computer Science.
 
 I am interested in theoretical computer science at most, especielly:
 
@@ -10,7 +11,7 @@ I am interested in theoretical computer science at most, especielly:
 
 However, I am open to everything new.
 
-I love outdoors activities. Orienteering, climbing, slacklining make me really happy.
+I love outdoors activities. Orienteering 🏃, climbing 🧗, slacklining 🌳➖🌳 make me really happy.
 
-Welcome in my GitHub,
+Welcome in my GitHub :octocat:,
 Vit Kostejn
